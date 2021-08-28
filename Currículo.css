@@ -1,0 +1,147 @@
+ #div1 {
+    border-radius: 50%;
+    position: absolute;
+    padding: 11px;
+    top: 60px;
+    left: 85px;
+
+}
+/**Perfil**/
+#div2 {
+    position: absolute;
+    font-size: 20px;
+    top: 98px;
+    left: 248px;
+    line-height: 19px;
+    font-style: normal;
+    color: #19304F;  
+
+}
+#div3 {
+    position: absolute;
+    font-size: 14px;
+    line-height: 21px;
+    left: 248px;
+    top: 137px;
+    color: #19304F; 
+    font-family: roboto;   
+}
+body {
+    background-color: #FFFFFF;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#div4 {
+    font-size: 16px;
+    position: absolute;
+    left: 85px;
+    top: 216px;
+    color: #19304F ;
+}
+#div5 {
+    position: absolute;
+    left: 85px;
+    top: 270px;
+    color: #222222;
+    
+}
+#div6 {
+    position: absolute;
+    left: 85px;
+    top: 370px;
+    color: #19304F ;
+}
+#div7 {
+    position: absolute;
+    left: 85px;
+    top: 420px;
+    color: #222222;
+}
+#div8 {
+    position: absolute;
+    width: 320px;
+    height: 825px;
+    left: 900px;
+    top: 0px;
+    background-color: #19304F;
+}
+#div9 {
+    position: absolute;
+    width: 75px;
+    height: 15px;
+    left: 1010px;
+    top: 150px;
+    color: white;
+}
+#div10 {
+    position: absolute;
+    width: 189px;
+    height: 77px;
+    left: 950px;
+    top: 200px;
+    color:white;
+}
+#div11 {
+    position: absolute;
+    width: 189px;
+    height: 77px;
+    left: 1010px;
+    top: 325px;
+    letter-spacing: 5px;
+}
+:hover.class1 {
+    background-color: white;
+}
+#div12 {
+    position: absolute;
+    width: 75px;
+    height: 15px;
+    left: 990px;
+    top: 380px;
+    color: white;
+}
+#div13 {
+    position: absolute;
+    width: 75px;
+    height: 15px;
+    left: 990px;
+    top: 420px;
+    text-decoration: underline;
+    color: white;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+}
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    top: 780px;
+}
+pre {
+    font-weight: bold;
+}
+#div14 {
+    position: absolute;
+    left: 85px;
+    top: 600px;
+    color: #19304F ;
+}
+#div15 {
+    position: absolute;
+    left: 85px;
+    top: 650px;
+    color: #222222;
+
+}
+:hover.class2 {
+    color: #222222;
+    font-weight: bold;
+}
+:link.class2 {
+    text-decoration: none;
+    color: color: #222222;
+}
+:visited.class2 {
+    color: #222222;
+}
+
+
